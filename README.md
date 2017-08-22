@@ -8,4 +8,4 @@ Just place the index.html file in the root of your s3 bucket and it will list al
 * Make sure the everyone has rights to list bucket contents
 * Make sure that CORS is enabled
 
-No seperate configuration required in this file.
+No separate configuration required in this file.
